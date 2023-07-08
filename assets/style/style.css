@@ -77,10 +77,14 @@ main {
     font-size: 18px;
     font-weight: bold;
 }
-
 .link{
     text-decoration: none;
     color: #82ddf3;
+    font-weight: bold;
+}
+.link-btn{
+    text-decoration: underline;
+    color: #000;
     font-weight: bold;
 }
 footer {

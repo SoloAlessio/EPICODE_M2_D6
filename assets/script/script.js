@@ -14,7 +14,7 @@ function indirizzo(){
 function link(){
     let link = document.querySelectorAll("a");
     for(let i = 0; i < link.length; i++){
-            link[i].classList.toggle("link");
+            link[i].classList.toggle("link-btn");
     }
     console.log(link);
 }
